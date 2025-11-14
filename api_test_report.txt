@@ -1,0 +1,28 @@
+
+GitHub API Rate Limit Test Report
+================================
+
+Test Summary
+------------
+Total Requests: 19
+Successful Requests: 19
+Failed Requests: 0
+Success Rate: 100.00%
+
+Performance Metrics
+-------------------
+Average Response Time: 100.71 ms
+Minimum Response Time: 74.92 ms
+Maximum Response Time: 192.51 ms
+Response Time Std Dev: 34.34 ms
+
+Status Code Distribution
+------------------------
+Status 200: 19 requests
+
+Rate Limit Analysis
+-------------------
+Final Rate Limit Remaining: 4935
+Rate Limit Usage: 1.30%
+
+Test Completed: 2025-11-14 05:08:53

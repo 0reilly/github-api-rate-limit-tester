@@ -1,0 +1,3 @@
+Repository URL: https://github.com/0reilly/github-api-rate-limit-tester
+Clone URL: https://github.com/0reilly/github-api-rate-limit-tester.git
+SSH URL: git@github.com:0reilly/github-api-rate-limit-tester.git
